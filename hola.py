@@ -1,3 +1,6 @@
+def saludo():
+	print "Hola"
+
 def factorial(x,n):
  if(n>0):
   x=factorial(x,n-1)
